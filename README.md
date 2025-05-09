@@ -22,8 +22,6 @@ A fun and interactive Python-based console game where you guess which celebrity 
 - Random module
 - Custom ASCII art for game visuals
 
-## 🚀 Getting Started
-
 ### Prerequisites
 
 Make sure Python 3 is installed on your system.
