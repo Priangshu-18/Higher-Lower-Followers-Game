@@ -15,3 +15,9 @@ A fun and interactive Python-based console game where you guess which celebrity 
 - Randomized comparisons for a fresh experience every round
 - Maintains score until incorrect guess
 - Uses a predefined dataset of celebrities with follower counts
+
+## 🛠️ Technologies Used
+
+- Python 3
+- Random module
+- Custom ASCII art for game visuals
