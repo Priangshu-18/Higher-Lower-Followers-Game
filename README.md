@@ -8,3 +8,10 @@ A fun and interactive Python-based console game where you guess which celebrity 
 - Guess who has **more followers** on Instagram.
 - If you're right, your score increases and the game continues.
 - If you're wrong, the game ends and your final score is displayed.
+
+## 📦 Features
+
+- Clean command-line interface
+- Randomized comparisons for a fresh experience every round
+- Maintains score until incorrect guess
+- Uses a predefined dataset of celebrities with follower counts
